@@ -34,7 +34,7 @@ else{
 $conn->close();
 }
  
-?>
+ 
  <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -72,3 +72,4 @@ $conn->close();
  
   </body>
 </html>
+ ?>
